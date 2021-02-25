@@ -1,1 +1,1 @@
-# Upgrad Assignment For Restaurant Finder
+# Upgrad Assignment For Restaurants Finder
